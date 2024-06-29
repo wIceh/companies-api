@@ -1,0 +1,5 @@
+name: Companies
+version: '1.0'
+main: me.wiceh.companies.Companies
+api-version: '1.16'
+authors: [wIceh]

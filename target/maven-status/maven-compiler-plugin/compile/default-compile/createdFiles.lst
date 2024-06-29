@@ -1,0 +1,9 @@
+me\wiceh\companies\utils\CompanyUtils.class
+me\wiceh\companies\database\Database.class
+me\wiceh\companies\inventories\CashRegisterInventories.class
+me\wiceh\companies\commands\AziendaCommand.class
+me\wiceh\companies\objects\Company.class
+me\wiceh\companies\utils\CashRegisterUtils.class
+me\wiceh\companies\Companies.class
+me\wiceh\companies\listeners\CashRegisterListeners.class
+me\wiceh\companies\commands\CassaCommand.class
